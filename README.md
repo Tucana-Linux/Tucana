@@ -14,7 +14,7 @@ Thanks to Oregon State University's Open Source Lab for our first repository mir
 Please check Tucana Build Scripts for more acknowledgements.
 Hopefully many more are to come
 # Schedule
-Tucana is on a January June/July Release schedule with periodic 'point' updates throughout.  Tucana-Build-Scripts however is rolling and will always be up to date, so if you need the latest and greatest build the packages from there using Tucana-Autobuild or Tucana-Build-Scripts
+Tucana is mainly rolling release nowadays, stable releases are usually once-a-year around a toolchain/glibc update. Check https://github.com/Tucana-Linux/Build-Scripts to see wat the package versions are at now!
 
 
 ## Sub Repos
