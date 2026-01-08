@@ -1,0 +1,21 @@
+[submodule "build-scripts"]
+	path = build-scripts
+	url = https://github.com/Tucana-Linux/Build-Scripts.git
+[submodule "isotools"]
+	path = isotools
+	url = https://github.com/Tucana-Linux/isotools.git
+[submodule "repository"]
+	path = repository
+	url = https://git.magnium.org/mainline/repository.git
+[submodule "autobuild"]
+	path = autobuild
+	url = https://github.com/Tucana-Linux/Autobuild
+[submodule "neptune"]
+	path = neptune
+	url = https://github.com/Tucana-Linux/neptune.git
+[submodule "pkgs-web"]
+	path = pkgs-web
+	url = https://github.com/Tucana-Linux/pkgs-web.git
+[submodule "pkgs-extra-files"]
+	path = pkgs-extra-files
+	url = https://github.com/Tucana-Linux/pkgs-extra-files.git
